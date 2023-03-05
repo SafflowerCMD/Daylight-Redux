@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",LED_PLCC_2835_Handsoldering,18,LED_ALT,C182223
+"J1, J2",SHOU HAN 2.54-2P WT,2,Conn_01x02_Female,C668622
+"R1, R2, R3, R4, R5, R6",R_1210_3225Metric_Pad1.30x2.65mm_HandSolder,6,75R 0.5W,C137089
